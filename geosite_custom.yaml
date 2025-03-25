@@ -1,13 +1,12 @@
 payload:
-  - www.quora.com
-  - https://www.quora.com
-  - +.quora.com
-  - qsbr.cf2.quoracdn.net
   - +.quoracdn.net
   - +.wikipedia.org
-  - https://grok.com
   - +.grok.com
-  - https://accounts.x.ai
-  - https://www.qichiyu.com
+  - +.accounts.x.ai
   - +.qichiyu.com
   - www.qichiyu.com
+  - +.qr.ae
+  - +.quora.com
+  - +.quoracdn.net
+  - +.poe.com
+  - +.poecdn.net
